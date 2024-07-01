@@ -1,14 +1,5 @@
 
 
-
-<h1 style="text-align: center">      Ecommerce Database Management System       </h1>
-
-As a part of our University PTU Curriculum, I made this project for Database Management Systems (DBMS)<br>
-This project contains theoretical as well as implementation in backend-SQL and FrontEnd-ReactJs.<br>
-If you liked the repo do :star: it.  
-
-<br>
-
 # *********************   FrontEnd   *************************
 
 Frontend implementation of an e-commerce platform built using React. It provides users with an intuitive interface to browse products, add them to the cart, and proceed to checkout. Leveraging React's component-based architecture, it offers a seamless user experience with dynamic updates and efficient state management.
@@ -21,28 +12,7 @@ Frontend implementation of an e-commerce platform built using React. It provides
 
 This project aims to deliver a modern and responsive web application for e-commerce businesses, allowing for easy customization and scalability.
 
-<br>
 
-### LoginPage<br>
-![user Login](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/Login.png?raw=true)
-
-
-### Product Page<br>
-![All Products](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/Product.png)
-
-### User Dashboard Page<br>
-![User Dashboard](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/UserDashboard.png)
-
-### Admin Dashboard<br>
-![Admin Dashboard-CRUD Operation](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/AdminDashboard.png)
-
-### Cart Page<br>
-![Add to cart](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/Cart.png)
-
-### Filter Page<br>
-![Filter -Search functionality](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/filter.png)
-
-<br>
 
 # *********************** BackEnd  **********************
 
@@ -97,11 +67,6 @@ Amongst many things that an online site requires the most important is a databas
 - A Customer cannot access the Seller details and vice-versa. 
 - There should not be any inconsistency in the data. 
 - There should not be any loss of data. 
-
-### 3.  Relational Database Schema - e commerce 
-![Relational Schema_Diagram](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational_Schema-Screenshot.jpg)
-For more clear view, click here
-[Relational Schema Pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational%20Database%20Schema2.pdf)
 
 ### 4. Entities and their Attributes
 
@@ -179,20 +144,6 @@ for more clear view, click here
 **QUERY 11:**  If customer wants to modify the cart that is he want to delete some products from the cart.
 **QUERY 12:**  List the seller who has the highest stock of a particular product. 
 **QUERY 13:** Customers to compare the products based on their ratings and reviews.
-
-<br><br> 
-
-**To get implemented part of above queries  and other details, you can mail me: [abhinav221sk@gmail.com](mailto:abhinav221sk@gmail.com).<br> For any personalized and expedited support, feel free to ping me on [my telegram](https://t.me/qxvjm). (please do mention subject as this repo name). thanks**<br>
-
-#### Contributors
-[SAURABH KISHOR](https://github.com/Saurabh-pec) 
-
-##### Want to support my coding journey? Buy me a coffee and keep the code flowing! [Buy me a Coffee!](https://www.buymeacoffee.com/saurabhkishor ).
-Thanks and I highly appreciate your support.
-
-
-
-
 
 
 
